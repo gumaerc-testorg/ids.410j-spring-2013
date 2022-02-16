@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-410j-modeling-and-assessment-for-policy-spring-2013/7b70ed815a926bc847189d5d285e326f_MITESD_864S13_lecture1.pdf
+file: /media/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/7b70ed815a926bc847189d5d285e326f_MITESD_864S13_lecture1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 1: Modeling and Assessment
   for Policy'

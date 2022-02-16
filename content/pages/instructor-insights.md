@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: acf918f1-d791-9387-0a59-9623cefee4bc
 ---
@@ -42,20 +44,6 @@ _IDS.410J_ is a core course for both the [Technology and Policy Program](http://
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![IDS-410J_classroom-1.jpg]({{< resource_file 8c2e3e19-13a0-1b93-72e0-303dc8ff2fa9 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    A large classroom with tiered seating, multiple blackboards, and a projector was used for this course.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

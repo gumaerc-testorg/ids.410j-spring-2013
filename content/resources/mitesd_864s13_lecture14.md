@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: "\r\nThis file contains information regarding lecture 14."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-410j-modeling-and-assessment-for-policy-spring-2013/faa95fc6ec76aa0493bd158bb8a3fede_MITESD_864S13_lecture14.pdf
+file: /media/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/faa95fc6ec76aa0493bd158bb8a3fede_MITESD_864S13_lecture14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 14: Risk'
 uid: faa95fc6-ec76-aa04-93bd-158bb8a3fede

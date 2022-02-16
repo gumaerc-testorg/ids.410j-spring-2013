@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 229b83a3-f496-a03d-b403-dda779c8fc2e
 ---
@@ -101,7 +104,7 @@ The first, most important choice you need to make for this assignment is to sele
     *   Organize the text well: bullet points, headings, bold, figures, etc.
 *   Think about whether / how to present uncertainties, policy recommendations, scenarios, etc.
 
-The one concession that you should make for this being a course assignment and not a real-world memo is to be sure that your memo has appropriate citations (whereas in a policy setting, that might not be required). Logistically, shorter is better: 5 pages is an absolute maximum, and if you are at the high end of that, think about including a <1 page executive summary.
+The one concession that you should make for this being a course assignment and not a real-world memo is to be sure that your memo has appropriate citations (whereas in a policy setting, that might not be required). Logistically, shorter is better: 5 pages is an absolute maximum, and if you are at the high end of that, think about including a \<1 page executive summary.
 
 This memo from [Bob Behn](https://www.hks.harvard.edu/faculty/robert-behn), a Lecturer in Public Policy at Harvard Kennedy School has useful information about memo writing:
 

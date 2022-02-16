@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 2894571f-a4c2-1e2f-7aca-aabe6b749145
 title: Student Work
 uid: fd3a5df9-3a9d-a26e-6e54-860d5ad8146c
@@ -186,13 +190,13 @@ US Preventive Services Task Force. "[Screening for Breast Cancer: U.S. Preventiv
 
 Mandelblatt, Jeanne S., Kathleen A. Cronin, et al. "[Effects of Mammography Screening Under Different Screening Schedules: Model Estimates of Potential Benefits and Harms](http://dx.doi.org/10.7326/0003-4819-151-10-200911170-00010)." _Annals of Internal Medicine_ 151, no. 10 (2009): 738–47.
 
-"[Breast Cancer Screening Recommendations for Women at Average Risk](http://ww5.komen.org/BreastCancer/GeneralRecommendations.html)." Susan G. Komen®, accessed February 20, 2014. Pay particular attention to the Figure 3.1, which compares different recommendations, but the other information is useful, too.
+"[Breast Cancer Screening Recommendations for Women at Average Risk](http://ww5.komen.org/BreastCancer/GeneralRecommendations.html)." Susan G. Komen{{< sup "®" >}}, accessed February 20, 2014. Pay particular attention to the Figure 3.1, which compares different recommendations, but the other information is useful, too.
 
 Gottlieb, Scott. "[Meet the ObamaCare Mandate Committee](https://www.wsj.com/articles/SB10001424052970204795304577220950656734864)." _The Wall Street Journal_. February 16, 2012.
 
 Boyles, Salynn. "[New Mammogram Screening Guidelines FAQ](http://www.webmd.com/breast-cancer/features/new-mammogram-screening-guidelines-faq)." WebMD, accessed February 20, 2014.
 
-"[Breast Cancer Screening (PDQ®)](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0032597/)" PubMed Health. Last updated December 3, 2013.
+"[Breast Cancer Screening (PDQ{{< sup "®" >}})](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0032597/)" PubMed Health. Last updated December 3, 2013.
 
 H. Lee Moffitt Cancer Center & Research Institute. "[New Frontiers in Breast Cancer Screening](http://www.sciencedaily.com/releases/2013/04/130405064434.htm)." _Science Daily_. April 5, 2013.
 

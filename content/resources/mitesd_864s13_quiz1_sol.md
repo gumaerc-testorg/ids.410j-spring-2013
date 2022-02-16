@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: "\r\nThis file contains information regarding quiz 1 solution."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-410j-modeling-and-assessment-for-policy-spring-2013/32afbbbc93a66b1b3d12849128f3d875_MITESD_864S13_Quiz1_Sol.pdf
+file: /media/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/32afbbbc93a66b1b3d12849128f3d875_MITESD_864S13_Quiz1_Sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864: Modeling and Assessment for Policy, Quiz 1 Solutions'
 uid: 32afbbbc-93a6-6b1b-3d12-849128f3d875
