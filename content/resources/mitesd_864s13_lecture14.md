@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 561b78e6-8966-b179-8155-054920743a0e
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 14: Risk'
 uid: faa95fc6-ec76-aa04-93bd-158bb8a3fede

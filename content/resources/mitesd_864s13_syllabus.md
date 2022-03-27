@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 4eae3d44-f1ca-dad3-ea80-5eaae18f141d
 resourcetype: Document
 title: ESD.864 Modeling and Assessment for Policy, Syllabus
 uid: c42db004-a497-29a4-7746-63b9af6959de

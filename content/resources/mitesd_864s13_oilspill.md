@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: fd3a5df9-3a9d-a26e-6e54-860d5ad8146c
 resourcetype: Document
 title: ESD.864 Modeling and Assessment for Policy, Oil Spill
 uid: 2e7a3f66-7877-d8c2-d3a2-39f018a35f45

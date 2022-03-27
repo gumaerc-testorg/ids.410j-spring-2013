@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: fd3a5df9-3a9d-a26e-6e54-860d5ad8146c
 resourcetype: Document
 title: ESD.864 Modeling and Assessment for Policy, Sports Statistics
 uid: 44217fa7-6c64-d9e3-3ea5-4adbef0f1bc6

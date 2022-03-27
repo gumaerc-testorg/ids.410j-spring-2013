@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 561b78e6-8966-b179-8155-054920743a0e
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 2: Science-Policy Review'
 uid: eba4eb6e-6efa-b8ce-cb17-1c6988d3ab7a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 229b83a3-f496-a03d-b403-dda779c8fc2e
 resourcetype: Document
 title: ESD.864 Problem Set 3
 uid: 43f995b2-b2ee-6d63-0521-47b78dd9f7fe

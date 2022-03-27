@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 229b83a3-f496-a03d-b403-dda779c8fc2e
 resourcetype: Document
 title: 'Making Models Exhibit: Exhibit Goals and Activities'
 uid: 82dfebe2-3fa0-1766-0f6e-59241f8e08bb

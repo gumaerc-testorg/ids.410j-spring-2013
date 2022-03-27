@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: ace9836b-ee73-956a-cc10-e8ae881f9a55
 resourcetype: Document
 title: 'ESD.864: Modeling and Assessment for Policy, Quiz 3 Solutions'
 uid: cf9934c7-b351-5482-5750-242f2ab08973
