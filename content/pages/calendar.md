@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, guest lectures,
+  case studies, and assignment due dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 0e850efb-f3bb-771d-a847-27c0dd88a84b
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

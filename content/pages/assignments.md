@@ -1,13 +1,17 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, supplementary
+  files, and details on the policy memo assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 229b83a3-f496-a03d-b403-dda779c8fc2e
+video_metadata:
+  youtube_id: null
 ---
 
-_This section includes problem sets and a_ [_policy memo_]({{< baseurl >}}/pages/assignments#Policy_Memo)_._
+_This section includes problem sets and a_ {{% resource_link 229b83a3-f496-a03d-b403-dda779c8fc2e "_policy memo_" "#Policy_Memo" %}}_._
 
 {{< anchor "Problem_Sets" >}}{{< /anchor >}}Problem Sets
 --------------------------------------------------------
@@ -31,7 +35,7 @@ SUPPLEMENTARY FILES
 {{< tdopen >}}
 
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps1)
+{{% resource_link bc12afc1-127b-0550-1756-bc41fe8e9673 "Problem Set 1 (PDF)" %}}
 
 Topics: Making Models, Verification and Validation
 
@@ -40,9 +44,9 @@ Topics: Making Models, Verification and Validation
 {{< tdopen >}}
 
 
-Karp, Joan and Judah Leblang. "[Making Models: Summative Evaluation Report." Museum of Science, Program and Evaluation Research Group, Lesley University, 2004. (PDF - 2.0MB)]({{< baseurl >}}/resources/mitesd_864s13_ps1_mkg_summ) (Courtesy of Lesley University Program Evaluation and Research Group. Used with permission.)
+Karp, Joan and Judah Leblang. "{{% resource_link f2954ce7-b977-9e2a-650e-99a837cf1239 "Making Models: Summative Evaluation Report.\" Museum of Science, Program and Evaluation Research Group, Lesley University, 2004. (PDF - 2.0MB)" %}} (Courtesy of Lesley University Program Evaluation and Research Group. Used with permission.)
 
-[Making Models Exhibit: Exhibit Goals and Activities (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps1_mkig_mdl) (Courtesy of [Museum of Science](http://www.mos.org/ ). Used with permission.)
+{{% resource_link 82dfebe2-3fa0-1766-0f6e-59241f8e08bb "Making Models Exhibit: Exhibit Goals and Activities (PDF)" %}} (Courtesy of [Museum of Science](http://www.mos.org/ ). Used with permission.)
 
 
 {{< tdclose >}}
@@ -50,20 +54,20 @@ Karp, Joan and Judah Leblang. "[Making Models: Summative Evaluation Report." Mus
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps2)
+{{% resource_link 15dde2f0-1b32-2626-b7c7-17e6ea96f2b5 "Problem Set 2 (PDF)" %}}
 
 Topics: Assessment Design and Evaluation
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Example Memo: Mercury in the U.S. Environment (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps2_q2exmple)
+{{% resource_link 752e3cc0-1305-f24d-e261-c83b2b690d97 "Example Memo: Mercury in the U.S. Environment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps3)
+{{% resource_link 43f995b2-b2ee-6d63-0521-47b78dd9f7fe "Problem Set 3 (PDF)" %}}
 
 Topic: System Modeling
 
@@ -76,7 +80,7 @@ Topic: System Modeling
 
 [Additional information on endosulfan](http://chm.pops.int/Portals/0/docs/from_old_website/poprc/documents/request/request_AnnexE_2009/UNEP-POPS-POPRC.4-INF-14.English.pdf)
 
-Raychaudhuri, Samik. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Introduction to Monte Carlo Simulation." (PDF)](http://www.informs-sim.org/wsc08papers/012.pdf) In _Simulation Conference, 2008. WSC 2008. Winter_, pp. 91-100. IEEE, 2008.
+Raychaudhuri, Samik. ["Introduction to Monte Carlo Simulation." (PDF)](http://www.informs-sim.org/wsc08papers/012.pdf) In _Simulation Conference, 2008. WSC 2008. Winter_, pp. 91-100. IEEE, 2008.
 
 Cetin, Banu, Serdar Ozer, et al. "[Determination of Henry's Law Constants of Organochlorine Pesticides in Deionized and Saline Water as a Function of Temperature](http://dx.doi.org/10.1016/j.atmosenv.2006.04.009)." _Atmospheric Environment_ 40, no. 24 (2006): 4538–46.
 
@@ -108,7 +112,7 @@ The one concession that you should make for this being a course assignment and n
 
 This memo from [Bob Behn](https://www.hks.harvard.edu/faculty/robert-behn), a Lecturer in Public Policy at Harvard Kennedy School has useful information about memo writing:
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Craft of Memo Writing (PDF)](https://shorensteincenter.org/wp-content/uploads/2012/07/Behn-Craft-of-Memo-Writing-2013-3rev8_26_13.pdf) 
+*   [The Craft of Memo Writing (PDF)](https://shorensteincenter.org/wp-content/uploads/2012/07/Behn-Craft-of-Memo-Writing-2013-3rev8_26_13.pdf) 
 
 ### Presentation
 
