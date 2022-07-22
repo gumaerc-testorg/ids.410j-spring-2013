@@ -5,6 +5,7 @@ description: 'This file contains information regarding review of the national am
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/007335f6554ffed3454311b7c4e63171_MITESD_864S13_Rdng_NatAmbt.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding review of the national ambient air quality standards for ozone: policy assessment.
-

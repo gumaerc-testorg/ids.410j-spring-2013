@@ -4,6 +4,7 @@ description: This file contains information regarding cancer instructions.
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/1b1525dbfcaaf848c9402fc2f7aebec0_MITESD_864S13_Cncr_Intrus.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding cancer instructions.
-

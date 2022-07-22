@@ -4,6 +4,7 @@ description: This file contains information regarding  case study.
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/76528a2fe9331d636395c347ac609d3e_MITESD_864S13_Econ_Case.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding  case study.
-
