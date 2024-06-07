@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding clean air.
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5b3a49ae5123e3bc0b542764e58d413c_MITESD_864S13_ClanAir_Case.pdf
+file_size: 113474
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

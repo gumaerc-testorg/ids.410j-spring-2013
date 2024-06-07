@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/8c2e3e1913a01b9372e0303dc8ff2fa9_IDS-410J_classroom-1.jpg
+file_size: 27580
 file_type: image/jpeg
 image_metadata:
   caption: ''

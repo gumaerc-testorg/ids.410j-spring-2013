@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/0af6984da891ec0a82d20e510a214bef_MITESD_864S13_Clean_Air.pdf
+file_size: 406296
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
