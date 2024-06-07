@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding final revisions to the national
   ambient air quality standards for ozone.
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/282c4157871be7a93cbbaf4d07c508c4_MITESD_864S13_Rdng_FctShet.pdf
+file_size: 84259
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
