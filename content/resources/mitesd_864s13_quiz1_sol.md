@@ -2,6 +2,7 @@
 content_type: resource
 description: "\r\nThis file contains information regarding quiz 1 solution."
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/32afbbbc93a66b1b3d12849128f3d875_MITESD_864S13_Quiz1_Sol.pdf
+file_size: 760085
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/7b70ed815a926bc847189d5d285e326f_MITESD_864S13_lecture1.pdf
+file_size: 1122985
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

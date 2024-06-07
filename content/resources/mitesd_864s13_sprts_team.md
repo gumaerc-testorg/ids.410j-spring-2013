@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding sports team.
 file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5480aaf721aa011185c17151123ad871_MITESD_864S13_Sprts_Team.pdf
+file_size: 548979
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
