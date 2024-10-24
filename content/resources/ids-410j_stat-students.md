@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/2a2012be2843d35848aeb2f0cda98f89_IDS-410J_stat-students.png
+file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/2a2012be2843d35848aeb2f0cda98f89_IDS-410J_stat-students.png
 file_size: 2912
 file_type: image/png
 image_metadata:
