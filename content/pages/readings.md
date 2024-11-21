@@ -50,7 +50,7 @@ Verification and Validation
 
 Roy, Christopher J., and William L. Oberkampf. "[A Comprehensive Framework for Verification, Validation, and Uncertainty Quantification in Scientific Computing](http://dx.doi.org/10.1016/j.cma.2011.03.016)." *Computer Methods in Applied Mechanics and Engineering* 200, no. 25 (2011): 2131–44.
 
-Oreskes, Naomi, Kristin Shrader-Frechette, et al. "[Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences](http://dx.doi.org/10.1126/science.263.5147.641)." *Science* 263, no. 5147 (1994): 641–6.
+Oreskes, Naomi, Kristin Shrader-Frechette, et al. "[Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences](https://web.archive.org/web/20090616211717/http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4210)." *Science* 263, no. 5147 (1994): 641–6.
 
 ### Optional:
 
@@ -108,7 +108,7 @@ Guest Lecturer: Jarrod Goentzel, [MIT Humanitarian Response Lab](http://humanita
 
 {{< tdclose >}}{{< tdopen >}}
 
-Darcy, James, and C. Hofmann. ["According to Need?: Needs Assessment and Decision-Making in the Humanitarian Sector." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/285.pdf) *Humanitarian Policy Group Report* 15 (2003): 5.
+Darcy, James, and C. Hofmann. ["According to Need?: Needs Assessment and Decision-Making in the Humanitarian Sector." (PDF)](https://web.archive.org/web/20140824070226/https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/285.pdf) *Humanitarian Policy Group Report* 15 (2003): 5.
 
 - Chapter 3: The practice of needs assessment
 - Optional: Chapter 1: Introduction and background
@@ -119,7 +119,7 @@ Darcy, James, and C. Hofmann. ["According to Need?: Needs Assessment and Decisio
 
 Case Study: Climate Change and the Intergovernmental Panel on Climate Change
 
-Guest Lecturer: Susan Solomon, [MIT Professor of Atmospheric Chemistry & Climate Science](http://eaps-www.mit.edu/paoc/people/susan-solomon/bio)
+Guest Lecturer: Susan Solomon, [MIT Professor of Atmospheric Chemistry & Climate Science](https://web.archive.org/web/20130124103120/http://eaps-www.mit.edu/paoc/people/susan-solomon/bio)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -153,18 +153,18 @@ Guest Lecturer: Stephen Zoepf, [MIT Sloan Auto Lab](http://web.mit.edu/sloan-aut
 
 ### Material Specific to Corporate Average Fuel Economy Standards
 
-[Energy Policy and Conservation Act (PDF)](https://www.govtrack.us/congress/bills/94/s622/text) (1975).     
+[Energy Policy and Conservation Act (PDF)](https://www.govtrack.us/congress/bills/94/s622/text) (1975).       
 Suggest skimming sections 32902(a), 32902(b), 32902(c), and 32902(f).
 
-[Energy Independence and Security Act  (PDF)](http://www.gpo.gov/fdsys/pkg/BILLS-110hr6enr/pdf/BILLS-110hr6enr.pdf) (2007).     
+[Energy Independence and Security Act  (PDF)](http://www.gpo.gov/fdsys/pkg/BILLS-110hr6enr/pdf/BILLS-110hr6enr.pdf) (2007).       
 Suggest skimming Title I, Subtitle A, and Section 102(a) (on pp. 7–9 of pdf).
 
-\[Corporate Average Fuel Economy for MY 2012-MY 2016 Passenger Cars and Light Trucks, Final Regulatory Analysis, NHTSA ([PDF - 2.5MB](https://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated%20Files/MY2012-2016_CAFE_PRIA.pdf))\]. August 2009.     
+\[Corporate Average Fuel Economy for MY 2012-MY 2016 Passenger Cars and Light Trucks, Final Regulatory Analysis, NHTSA ([PDF - 2.5MB](https://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated%20Files/MY2012-2016_CAFE_PRIA.pdf))\]. August 2009.       
 Suggest reading Executive Summary and skimming pp. 108–17, 134–9, 161–72, 285–90, 309–12, 358–9, 403–17, 555–8, 563–7, 578, and 606–7.
 
 ### Material Establishing General Principles for Regulatory Impact Analysis
 
-["Regulatory Impact Analysis: A Primer." (PDF)](https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf) Office of Management and Budget.     
+["Regulatory Impact Analysis: A Primer." (PDF)](https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf) Office of Management and Budget.       
 Suggest skimming pp. 9–15.
 
 "[Circular A-4](https://obamawhitehouse.archives.gov/omb/circulars_a004_a-4/)." Office of Management and Budget.
@@ -178,7 +178,7 @@ Suggest skimming these sections:
 - Market-Oriented Approaches Rather than Direct Controls
 - Developing Benefit and Cost Estimates
 
-Clinton, Bill. ["Regulatory Planning and Review." (PDF)](http://www.archives.gov/federal-register/executive-orders/pdf/12866.pdf) Executive Order 12866, 30 September 1993.     
+Clinton, Bill. ["Regulatory Planning and Review." (PDF)](http://www.archives.gov/federal-register/executive-orders/pdf/12866.pdf) Executive Order 12866, 30 September 1993.       
 Suggest skimming Section 1 (pp. 1–2).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
