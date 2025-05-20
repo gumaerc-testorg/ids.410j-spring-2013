@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding oilspill.
-file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/2e7a3f667877d8c2d3a239f018a35f45_MITESD_864S13_OilSpill.pdf
+file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/2e7a3f667877d8c2d3a239f018a35f45_MITESD_864S13_OilSpill.pdf
 file_size: 99382
 file_type: application/pdf
 learning_resource_types: []

@@ -86,7 +86,7 @@ Guest Lecturer: Travis Franck, [Climate Interactive](http://climateinteractive.o
 
 Transportation
 
-Guest Lecturer: Stephen Zoepf, [MIT Sloan Auto Lab](http://web.mit.edu/sloan-auto-lab/research/beforeh2/team.htm)
+Guest Lecturer: Stephen Zoepf, [MIT Sloan Auto Lab](https://sloan-auto-lab.mit.edu/)
 
 {{< tdclose >}}{{< tdopen >}}
  

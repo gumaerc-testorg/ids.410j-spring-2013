@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding  case study.
-file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/76528a2fe9331d636395c347ac609d3e_MITESD_864S13_Econ_Case.pdf
+file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/76528a2fe9331d636395c347ac609d3e_MITESD_864S13_Econ_Case.pdf
 file_size: 100465
 file_type: application/pdf
 learning_resource_types: []
