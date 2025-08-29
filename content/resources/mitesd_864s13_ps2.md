@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding problem set 2. '
-file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/15dde2f01b322626b7c717e6ea96f2b5_MITESD_864S13_PS2.pdf
+file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/15dde2f01b322626b7c717e6ea96f2b5_MITESD_864S13_PS2.pdf
 file_size: 105326
 file_type: application/pdf
 learning_resource_types:

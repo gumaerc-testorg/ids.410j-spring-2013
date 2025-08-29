@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "\r\nThis file contains information regarding quiz 3 solution."
-file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/cf9934c7b35154825750242f2ab08973_MITESD_864S13_Quiz3_Sol.pdf
+file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/cf9934c7b35154825750242f2ab08973_MITESD_864S13_Quiz3_Sol.pdf
 file_size: 632466
 file_type: application/pdf
 learning_resource_types:
