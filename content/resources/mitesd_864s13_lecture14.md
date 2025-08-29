@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "\r\nThis file contains information regarding lecture 14."
-file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/faa95fc6ec76aa0493bd158bb8a3fede_MITESD_864S13_lecture14.pdf
+file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/faa95fc6ec76aa0493bd158bb8a3fede_MITESD_864S13_lecture14.pdf
 file_size: 1126937
 file_type: application/pdf
 learning_resource_types:
