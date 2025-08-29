@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding breast cancer.
-file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5316a2a4171c6b62f44781f1d370d76c_MITESD_864S13_Brest_Cncr.pdf
+file: /ol-ocw-studio-app/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5316a2a4171c6b62f44781f1d370d76c_MITESD_864S13_Brest_Cncr.pdf
 file_size: 349845
 file_type: application/pdf
 learning_resource_types: []
