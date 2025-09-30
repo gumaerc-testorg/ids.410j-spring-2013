@@ -53,7 +53,7 @@ Case Study: Fisheries
 
 Case Study: Climate Change and the Intergovernmental Panel on Climate Change
 
-Guest Lecturer: Susan Solomon, [MIT Professor of Atmospheric Chemistry & Climate Science](https://chemistry.mit.edu/profile/susan-solomon/)
+Guest Lecturer: Susan Solomon, {{% resource_link "b4f9eecc-066c-42e9-89f3-81db4748866b" "MIT Professor of Atmospheric Chemistry & Climate Science" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -67,7 +67,7 @@ Guest Lecturer: Susan Solomon, [MIT Professor of Atmospheric Chemistry & Climate
 
 Energy Modeling Workshop
 
-Guest Lecturer: Travis Franck, [Climate Interactive](http://climateinteractive.org/)
+Guest Lecturer: Travis Franck, {{% resource_link "ae7ce0c6-4068-45aa-bbe3-29926b253261" "Climate Interactive" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -93,7 +93,7 @@ Class Case 3: Oil Spill / Risk Assessment Part I
 
 Models at the Environmental Protection Agency
 
-Guest Lecturer: Elsie Sunderland, [Harvard School of Public Health](http://www.hsph.harvard.edu/elsie-sunderland/)
+Guest Lecturer: Elsie Sunderland, {{% resource_link "3b61dc11-7604-4695-b3c0-e874dcda2556" "Harvard School of Public Health" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
