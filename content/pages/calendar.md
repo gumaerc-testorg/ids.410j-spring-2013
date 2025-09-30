@@ -56,7 +56,7 @@ Case Study: Fisheries
 
 Humantarian Logistics
 
-Guest Lecturer: Jarrod Goentzel, [MIT Humanitarian Response Lab](http://humanitarian.mit.edu/)
+Guest Lecturer: Jarrod Goentzel, {{% resource_link "70d2fffc-e44e-4b51-9857-341f78911f57" "MIT Humanitarian Response Lab" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -66,7 +66,7 @@ Guest Lecturer: Jarrod Goentzel, [MIT Humanitarian Response Lab](http://humanita
 
 Case Study: Climate Change and the Intergovernmental Panel on Climate Change
 
-Guest Lecturer: Susan Solomon, [MIT Professor of Atmospheric Chemistry & Climate Science](https://web.archive.org/web/20230513180943/https://eapsweb.mit.edu/people/solos)
+Guest Lecturer: Susan Solomon, {{% resource_link "12039ca7-ac82-4dad-95aa-7dac8bbf50dd" "MIT Professor of Atmospheric Chemistry & Climate Science" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 1 Due: Verification and Validation
@@ -76,7 +76,7 @@ Problem Set 1 Due: Verification and Validation
 
 Energy Modeling Workshop
 
-Guest Lecturer: Travis Franck, [Climate Interactive](http://climateinteractive.org/)
+Guest Lecturer: Travis Franck, {{% resource_link "ae7ce0c6-4068-45aa-bbe3-29926b253261" "Climate Interactive" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -86,7 +86,7 @@ Guest Lecturer: Travis Franck, [Climate Interactive](http://climateinteractive.o
 
 Transportation
 
-Guest Lecturer: Stephen Zoepf, [MIT Sloan Auto Lab](https://sloan-auto-lab.mit.edu/)
+Guest Lecturer: Stephen Zoepf, {{% resource_link "2588eb2d-a063-4371-b812-dca2952fc82d" "MIT Sloan Auto Lab" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -130,7 +130,7 @@ Class Case 3: Oil Spill / Risk Assessment Part I
 
 Models at the Environmental Protection Agency
 
-Guest Lecturer: Elsie Sunderland, [Harvard School of Public Health](https://web.archive.org/web/20200825063940/http://www.hsph.harvard.edu/elsie-sunderland/)
+Guest Lecturer: Elsie Sunderland, {{% resource_link "41cba0ab-0cbf-444b-a914-486f4bd1def8" "Harvard School of Public Health" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
