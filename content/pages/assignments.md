@@ -74,15 +74,15 @@ Topic: System Modeling
 
 {{< tdclose >}}
 {{< tdopen >}}
-[POPs Criteria: Annex D](http://chm.pops.int/TheConvention/POPsReviewCommittee/ReportsandDecisions/tabid/3309/Default.aspx)
+{{% resource_link "0de9da18-c332-4a0a-abb5-8b31a25a5fa7" "POPs Criteria: Annex D" %}}
 
-[OECD Pov and LRTP Screening Tool Manual](http://www.oecd.org/chemicalsafety/risk-assessment/45373514.pdf)
+{{% resource_link "13e36619-4377-4df1-99f6-e7dffd6620fe" "OECD Pov and LRTP Screening Tool Manual" %}}
 
-[Additional information on endosulfan](http://chm.pops.int/Portals/0/docs/from_old_website/poprc/documents/request/request_AnnexE_2009/UNEP-POPS-POPRC.4-INF-14.English.pdf)
+{{% resource_link "8cbf2ecd-47a7-408d-beef-9b60158719d9" "Additional information on endosulfan" %}}
 
-Raychaudhuri, Samik. ["Introduction to Monte Carlo Simulation." (PDF)](http://www.informs-sim.org/wsc08papers/012.pdf) In _Simulation Conference, 2008. WSC 2008. Winter_, pp. 91-100. IEEE, 2008.
+Raychaudhuri, Samik. {{% resource_link "83e67d5d-d6bc-4d10-a67b-1cbea98c36b4" "\"Introduction to Monte Carlo Simulation.\" (PDF)" %}} In _Simulation Conference, 2008. WSC 2008. Winter_, pp. 91-100. IEEE, 2008.
 
-Cetin, Banu, Serdar Ozer, et al. "[Determination of Henry's Law Constants of Organochlorine Pesticides in Deionized and Saline Water as a Function of Temperature](http://dx.doi.org/10.1016/j.atmosenv.2006.04.009)." _Atmospheric Environment_ 40, no. 24 (2006): 4538–46.
+Cetin, Banu, Serdar Ozer, et al. "{{% resource_link "0e9d298a-0e41-4f2f-87e8-985c0b24f1f7" "Determination of Henry's Law Constants of Organochlorine Pesticides in Deionized and Saline Water as a Function of Temperature" %}}." _Atmospheric Environment_ 40, no. 24 (2006): 4538–46.
 
 
 {{< tdclose >}}
@@ -110,9 +110,9 @@ The first, most important choice you need to make for this assignment is to sele
 
 The one concession that you should make for this being a course assignment and not a real-world memo is to be sure that your memo has appropriate citations (whereas in a policy setting, that might not be required). Logistically, shorter is better: 5 pages is an absolute maximum, and if you are at the high end of that, think about including a \<1 page executive summary.
 
-This memo from [Bob Behn](https://www.hks.harvard.edu/faculty/robert-behn), a Lecturer in Public Policy at Harvard Kennedy School has useful information about memo writing:
+This memo from {{% resource_link "f8068740-36c7-41b6-b904-45ec8727cb1d" "Bob Behn" %}}, a Lecturer in Public Policy at Harvard Kennedy School has useful information about memo writing:
 
-*   [The Craft of Memo Writing (PDF)](https://shorensteincenter.org/wp-content/uploads/2012/07/Behn-Craft-of-Memo-Writing-2013-3rev8_26_13.pdf) 
+*   {{% resource_link "5ddb3cb9-8bc9-4b3d-ac31-066e66d97b88" "The Craft of Memo Writing (PDF)" %}} 
 
 ### Presentation
 
@@ -120,4 +120,4 @@ Your presentation will be an opportunity for you to practice communicating techn
 
 ### Extra Credit (2 points)
 
-Write a 100-word summary of your policy memo using the ten hundred most used words. See [The Up-Goer Five Text Editor](http://splasho.com/upgoer5/) for more information. Inspired by this xkcd comic [Up Goer Five](http://xkcd.com/1133/).
+Write a 100-word summary of your policy memo using the ten hundred most used words. See {{% resource_link "56338b63-c9da-4cd2-afb7-19404d01c701" "The Up-Goer Five Text Editor" %}} for more information. Inspired by this xkcd comic {{% resource_link "ed7da4f1-434a-4a5b-aed9-df6f2bd786cf" "Up Goer Five" %}}.
