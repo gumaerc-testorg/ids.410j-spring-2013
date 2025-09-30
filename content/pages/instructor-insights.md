@@ -40,7 +40,7 @@ _Modeling and Assessment for Policy_ is a graduate course that introduces studen
 
 ### Requirements Satisfied
 
-_IDS.410J_ is a core course for both the [Technology and Policy Program](http://tppserver.mit.edu/) and the [Graduate Certificate Program in Science, Technology, and Policy](http://web.mit.edu/stp/). The course can be applied toward a graduate degree in the [Engineering Systems Division](http://web.mit.edu/fnl/volume/284/deweck.html) or the [Department of Earth, Atmospheric, and Planetary Sciences](http://catalog.mit.edu/schools/science/earth-atmospheric-planetary-sciences/), but is not required.
+_IDS.410J_ is a core course for both the {{% resource_link "83fac761-a386-488d-9a72-20c98ae74315" "Technology and Policy Program" %}} and the {{% resource_link "98018523-cdcc-4118-b1a7-455219ced80a" "Graduate Certificate Program in Science, Technology, and Policy" %}}. The course can be applied toward a graduate degree in the {{% resource_link "f6829480-ff35-4c08-a74a-4aee4610ba20" "Engineering Systems Division" %}} or the {{% resource_link "d110dad2-7e38-4a75-8850-a693394cdd90" "Department of Earth, Atmospheric, and Planetary Sciences" %}}, but is not required.
 
 ### Offered
 
